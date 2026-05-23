@@ -1,0 +1,16 @@
+*.exe
+*.o
+*.obj
+*.out
+*.log
+
+build/
+bin/
+
+.vscode/
+.idea/
+
+*.tmp
+*.cache
+
+students_data.hpp

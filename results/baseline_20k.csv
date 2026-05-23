@@ -1,0 +1,4 @@
+Structure,Optimizer,DatasetSize(N),BuildMean(ms),BuildHalfRange(ms),QueryMean(ms),QueryHalfRange(ms),Memory(KB),Memory(MB),Notes
+FQA,Baseline,20000,13.902,0.798,74.636,3.708,2578.4,2.517969,Mean ± half-range from two independent trials; memory converted from KB to MB for convenience.
+Burst Trie,Baseline,20000,3.225,0.02,16.926,2.079,625.7,0.611035,Mean ± half-range from two independent trials; memory converted from KB to MB for convenience.
+HBSI,Baseline,20000,2.525,0.061,3.234,0.158,554.9,0.541895,Mean ± half-range from two independent trials; memory converted from KB to MB for convenience.
